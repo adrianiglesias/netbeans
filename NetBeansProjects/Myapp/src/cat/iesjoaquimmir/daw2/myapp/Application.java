@@ -7,7 +7,7 @@ import java.util.Random;
 public class Application {
     
     public static void main(String[] args) {
-        System.out.println("Hello World");
+        System.out.println("Hello World mariquita");
         Random rnd = new Random();
         System.out.println("rnd = " + rnd.nextInt(1000));
         Date d = new Date();
